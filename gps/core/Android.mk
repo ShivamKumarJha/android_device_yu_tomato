@@ -17,6 +17,7 @@ endif
 
 LOCAL_SHARED_LIBRARIES := \
     liblog \
+    libandroid_runtime \
     libutils \
     libcutils \
     libgps.utils \
